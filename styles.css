@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'one';
+   src: url(/styles/fonts/Roblox-Font-Regular.ttf);
+}
+body {
+   background: black;
+   color: blueviolet;
+   font-family: 'one';
+   text-align: center;
+   font-size: larger;
+   background-image: url(/pic/GIFs/rain01.gif);
+   background-attachment: fixed;
+   background-size: cover;
+   background-repeat:no-repeat ;
+}
+
